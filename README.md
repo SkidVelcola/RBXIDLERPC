@@ -1,5 +1,4 @@
 # SkidVelcola RBXIDLE RPC
-dusagduyasgduyas
 ## VirusTotal
 https://www.virustotal.com/gui/file/c4a6c3782642490a1a06fca150373334cf2bd825caa29311720b31cb84a7ddae/detection
 
